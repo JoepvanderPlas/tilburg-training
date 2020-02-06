@@ -2,6 +2,9 @@
 title: "Tools to Enhance Productivity, Collaboration, and Transparency"
 output: github_document
 ---
+
+### 3 hashtags by Joep
+
 ## Pre-Tutorial Set-up
 
 This tutorial provides an introduction to a collection of tools designed to increase research productivity, collaboration, and transparency.  The content for this tutorial is largely drawn from a collection of trainings provided to research assistants in the quantitative marketing research lab at Brigham Young University.      
